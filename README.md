@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @efralima
-- 👀 I’m interested in  aprender sobre o universo de programação.
-- 🌱 I’m currently learning  os primeiros codigos.
-- 💞️ I’m looking to collaborat 
+- 👀 I’m interested in..
+- 🌱 I’m currently learning..
+- 💞️ I’m looking to collabora
 - 📫 How to reach me  31993984701
 
 <!---
